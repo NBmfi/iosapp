@@ -7,8 +7,10 @@
 模拟定位的App 使用 EA协议跟外设连接。这个App集成了地图SDK，主要用途就是方便用户进行搜索或者地图点选来获取想要虚拟定位的GPS信息，然后通过EA通道使用自定义的数据协议把用户选好的GPS信息发送给硬件。
 如图所示
 ![IMG_3105(20250507-155646)](https://github.com/user-attachments/assets/b5a2aab7-84a4-432c-b1e1-fbe5077324cd)
+硬件如图所示
+![IMG_3103](https://github.com/user-attachments/assets/a87a6092-87a7-4e20-a8a3-781359441e97)
 
-MFI Accessory Interface Specification地址见：https://usermanual.wiki/Document/MFiAccessoryInterfaceSpecificationR18NoRestriction.1631705096.pdf
+目前MFI Accessory Interface Specification地址见：https://usermanual.wiki/Document/MFiAccessoryInterfaceSpecificationR18NoRestriction.1631705096.pdf
 
 文档中搜索Locaiton即可看到定位相关信息，如下：
 
